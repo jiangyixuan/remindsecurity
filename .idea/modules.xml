@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\project\remindsecurity\imooc-security-app\imooc-security-app.iml" filepath="E:\project\remindsecurity\imooc-security-app\imooc-security-app.iml" />
+      <module fileurl="file://E:\project\remindsecurity\imooc-security-browser\imooc-security-browser.iml" filepath="E:\project\remindsecurity\imooc-security-browser\imooc-security-browser.iml" />
+      <module fileurl="file://E:\project\remindsecurity\imooc-security-core\imooc-security-core.iml" filepath="E:\project\remindsecurity\imooc-security-core\imooc-security-core.iml" />
+      <module fileurl="file://E:\project\remindsecurity\imooc-security-demo\imooc-security-demo.iml" filepath="E:\project\remindsecurity\imooc-security-demo\imooc-security-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remind-security-app/remind-security-app.iml" filepath="$PROJECT_DIR$/remind-security-app/remind-security-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remind-security-browser/remind-security-browser.iml" filepath="$PROJECT_DIR$/remind-security-browser/remind-security-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remind-security-core/remind-security-core.iml" filepath="$PROJECT_DIR$/remind-security-core/remind-security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remind-security-demo/remind-security-demo.iml" filepath="$PROJECT_DIR$/remind-security-demo/remind-security-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remindsecurity.iml" filepath="$PROJECT_DIR$/remindsecurity.iml" />
+    </modules>
+  </component>
+</project>
